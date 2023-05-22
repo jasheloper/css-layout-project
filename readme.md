@@ -25,7 +25,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Fundamental_Layout
 
 [x] The image that is inside the article should have text wrapped around it.
 
-[] The `<article>` and `<aside>` elements should display as a two column layout. The columns should be a flexible size so that if the browser window shrinks smaller the columns become narrower.
+[x] The `<article>` and `<aside>` elements should display as a two column layout. The columns should be a flexible size so that if the browser window shrinks smaller the columns become narrower.
 
 [] The photographs should display as a two column grid with a 1 pixel gap between the images.
 
