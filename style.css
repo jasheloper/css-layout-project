@@ -45,6 +45,10 @@ body {
     text-decoration: none;
     padding: .5em 1em;
   }
+
+  article {
+    padding-right: 3em;
+  }
   
   .photos {
     list-style: none;

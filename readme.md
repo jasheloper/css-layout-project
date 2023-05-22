@@ -41,3 +41,8 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Fundamental_Layout
 <br>
 
 There are a few ways in which you could achieve some of these tasks, and there often isn't a single right or wrong way to do things. Try a few different approaches and see which works best. Make notes as you experiment.
+
+<br>
+
+### **...and just some extra stuff I did to improve the layout:**
+- Added padding on the right of the article to add more space between each column
