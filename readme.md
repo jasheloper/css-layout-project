@@ -3,7 +3,8 @@ Link: n/a
 
 <br>
 
-[preview]
+![CSS Layout Desktop Preview](/images/preview-desktop.png)
+![CSS Layout Mobile Preview](/images/preview-mobile.png)
 
 <br>
 
