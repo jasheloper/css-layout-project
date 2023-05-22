@@ -21,9 +21,9 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Fundamental_Layout
 
 [x] To display the navigation items in a row, with an equal amount of space between the items.
 
-[] The navigation bar should scroll with the content and then become stuck at the top of the viewport when it reaches it.
+[x] The navigation bar should scroll with the content and then become stuck at the top of the viewport when it reaches it.
 
-[] The image that is inside the article should have text wrapped around it.
+[x] The image that is inside the article should have text wrapped around it.
 
 [] The `<article>` and `<aside>` elements should display as a two column layout. The columns should be a flexible size so that if the browser window shrinks smaller the columns become narrower.
 
