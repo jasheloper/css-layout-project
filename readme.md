@@ -19,7 +19,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Fundamental_Layout
 
 ### **The tasks you need to achieve are:**
 
-[] To display the navigation items in a row, with an equal amount of space between the items.
+[x] To display the navigation items in a row, with an equal amount of space between the items.
 
 [] The navigation bar should scroll with the content and then become stuck at the top of the viewport when it reaches it.
 
