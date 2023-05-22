@@ -24,12 +24,24 @@ body {
     display: flex;
     flex: 1;
   }
+
+  @media screen and (max-width: 43.75em) {
+    .grid {
+      flex-direction: column-reverse;
+    }
+  }
   
   nav {
     background-color: #000;
     padding: .5em;
     position: sticky;
     top: 0;
+  }
+
+  @media screen and (max-width: 43.75em) {
+    nav {
+      position:static;
+    }
   }
   
   nav ul {
@@ -38,6 +50,19 @@ body {
     list-style: none;
     display: flex;
     justify-content: space-between;
+  }
+
+  @media screen and (max-width: 43.75em) {
+    nav ul {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+
+  @media screen and (max-width: 43.75em) {
+    nav li {
+      padding-bottom: .5em;
+    }
   }
   
   nav a {
@@ -49,6 +74,12 @@ body {
   article {
     padding-right: 3em;
   }
+
+  @media screen and (max-width: 43.75em) {
+    article {
+      padding-right: 0;
+    }
+  }
   
   .photos {
     list-style: none;
@@ -59,8 +90,29 @@ body {
     gap: 1px;
   }
 
+  @media screen and (max-width: 43.75em) {
+    .photos {
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      gap: 10px;
+      padding-bottom: 1.5em;
+    }
+  }
+
   .feature {
       width: 200px;
       float: left;
       padding-right: 1em;
+  }
+  @media screen and (max-width: 43.75em) {
+    .feature {
+      float: none;
+      margin: 0 auto;
+    }
+  }
+
+  /** Extra Media Query **/
+  @media screen and (max-width: 43.75em) {
+    h1, h2{
+      text-align: center;
+    }
   }

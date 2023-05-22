@@ -46,3 +46,4 @@ There are a few ways in which you could achieve some of these tasks, and there o
 
 ### **...and just some extra stuff I did to improve the layout:**
 - Added padding on the right of the article to add more space between each column
+- Added a responsive breakpoint at `43.75em` = `700px`
