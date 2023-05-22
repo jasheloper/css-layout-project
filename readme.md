@@ -4,7 +4,7 @@ Link: n/a
 <br>
 
 ![CSS Layout Desktop Preview](/images/preview-desktop.png)
-![CSS Layout Mobile Preview](/images/preview-mobile.png)
+![CSS Layout Mobile Preview](/images/preview-mobile-layout.png)
 
 <br>
 
